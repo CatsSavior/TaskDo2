@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Task Do</string>
+    <string name="insertTaskHint">Название задачи:</string>
+    <string name="taskNameHint">Название задачи…</string>
+    <string name="addButton">Добавить</string>
+    <string name="toDoListMainHeader" translatable="false">To Do List :</string>
+    <string name="addTaskButton">Добавить задачу</string>
+    <string name="tutorial">Нажми на задачу чтобы отметить ее выполнение! Длительное нажатие чтобы удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="deleteConfirmation">"Точно удаляем это? "</string>
+    <string name="warning">Warning!!!</string>
+    <string name="nukeConfirmation">Точно удаляем все вкладки?</string>
+    <string name="addNameToast">Пожалуйста, введите название задачи</string>
+    <string name="insertTaskTime">Когда дедлайн?</string>
+    <string name="insertTimeHint">Нажми на иконку часов чтобы задать дедлайн, нажми на кнопку справа чтобы добавить задачу в свой список дел!</string>
+    <string name="timeNotSet">Дедлайн не установлен!</string>
+    <string name="deleteAll">УДАЛИТЬ ВСЕ!!!</string>
+    <string name="deleteSelection">Удалить содержимое этой вкладки</string>
+    <string name="delete">Удалить</string>
+    <string name="statusImageDescription">Статус задачи</string>
+    <string name="am" translatable="false">AM</string>
+    <string name="pm" translatable="false">PM</string>
+
+
+</resources>
